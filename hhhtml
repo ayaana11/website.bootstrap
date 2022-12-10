@@ -1,0 +1,48 @@
+<div class="navbar-nav mainmenu">
+    <ul>
+        <li class="menu-item-has-children">
+            <a href="#0">Home</a>
+            <ul>
+                <li><a href="index.html">Home Page One</a></li>
+                <li><a href="index-2.html">Home Page Two</a></li>
+                <li><a href="index-3.html">Home Page Three</a></li>
+            </ul>
+        </li>
+        <li class="active menu-item-has-children">
+            <a href="#0">Pages</a>
+            <ul>
+                <li><a href="about.html" class="active">About Us</a></li>
+                <li><a href="membership.html">Membership</a></li>
+                <li><a href="comingsoon.html">comingsoon</a></li>
+                <li><a href="404.html">404</a></li>
+            </ul>
+        </li>
+        <li class="menu-item-has-children">
+            <a href="#0">Community</a>
+            <ul>
+                <li><a href="community.html">Community</a></li>
+                <li><a href="group.html">All Group</a></li>
+                <li><a href="members.html">All Members</a></li>
+                <li><a href="activity.html">Activity</a></li>
+
+            </ul>
+        </li>
+        <li class="menu-item-has-children">
+            <a href="#0">Shops</a>
+            <ul>
+                <li><a href="shop.html">Product</a></li>
+                <li><a href="shop-single.html">Product Details</a></li>
+                <li><a href="shop-cart.html">Product Cart</a></li>
+            </ul>
+        </li>
+        <li class="menu-item-has-children">
+            <a href="#0">Blogs</a>
+            <ul>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="blog-2.html">Blog Style Two</a></li>
+                <li><a href="blog-single.html">Blog Details</a></li>
+            </ul>
+        </li>
+        <li><a href="contact.html">contact</a></li>
+    </ul>
+</div>
